@@ -1,0 +1,12 @@
+1. what is module
+2. use of import and export
+3. can use ES6 methods too, but have to change the package.json file
+4.fs module:
+  {
+    a.readFileSync('filepath'); //bit representation of data
+      readFileSync('filepath','encoding type'); //data represent according to type of encoding.
+    
+    b.readFile('filepath','encoding type', callbackfunction)
+  }
+5. performance.now();
+6. just type node on terminal and you will enter in repel mode , ctrl+d to exit.
